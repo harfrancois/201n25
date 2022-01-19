@@ -116,4 +116,4 @@ Tutorial on styling and coloring using canvas with examples.
 Tutorial on creating/drawing text using canvas with example.
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
 
-I am just blown away with the verity of usage and customization you can do with canvas. Its an amazing tool.
+I am just blown away by the verity of usage and customization you can do with canvas. Its an amazing tool.
