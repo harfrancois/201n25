@@ -1,0 +1,15 @@
+# What Google Learned From Its Quest to Build the Perfect Team.
+Direct quotes from New York Times Magazine article. https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+
+- The company’s top executives long believed that building the best teams meant combining the best people. In 2012, the company embarked on an initiative, code-named Project Aristotle.to study hundreds of Google’s teams and figure out why some stumbled while others soared.
+
+- Project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked. Were the best teams made up of people with similar interests? Did it matter more whether everyone was motivated by the same kinds of rewards? How often did teammates socialize outside the office? Did they have the same hobbies? Were their educational backgrounds similar? Was it better for all teammates to be outgoing or for all of them to be shy? how long teams stuck together and if gender balance seemed to have an impact on a team’s success? they had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. There was no patterns in the research data. The most effective teams did not show any patterns in regards to their status. They showed different levels of productivity.
+
+- After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams.The data didn’t offer clear verdicts.
+
+- In 2008, a group of psychologists from Carnegie Mellon, M.I.T. and Union College begin a study. They recruited 699 people, divided them into small groups and gave each a series of assignments that required different kinds of cooperation. What interested the researchers most, however, was that teams that did well on one assignment usually did well on all the others. Conversely, teams that failed at one thing seemed to fail at everything. Not all the good teams appeared to behave in the same ways. They found out that if everyone got a chance to talk, the team did well. If only one person or a small group spoke all the time, the collective intelligence declined. The data shows that a mix of specific personality types or skills or backgrounds made any difference.
+
+- Psychological safety witch describes a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves.
+This is what stood out to the research team. Enthusiasm for one another’s ideas, joking around and having fun and allowed everyone to feel relaxed and energized.
+
+- Google’s data indicated that psychological safety, more than anything else, was critical to making a team work. Psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond. And those human bonds matter as much at work as anywhere else. In fact, they sometimes matter more.
